@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Sep 16 19:02:58 2021
+# Process ID: 21972
+# Current directory: C:/lab_05b/lab_05.runs/impl_1
+# Command line: vivado.exe -log zynq_base_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source zynq_base_wrapper.tcl -notrace
+# Log file: C:/lab_05b/lab_05.runs/impl_1/zynq_base_wrapper.vdi
+# Journal file: C:/lab_05b/lab_05.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source zynq_base_wrapper.tcl -notrace
