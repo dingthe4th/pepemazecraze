@@ -1,5 +1,7 @@
 # pepemazecraze
 Pepe Maze Craze Game Design using ZedBoard Zync-7000
+Developed using Vivado 2020.2 and Vitis 2020.2
+
 by Ding Bayeta, Ryan Panes, Emerson Tiu
 
 Menu
